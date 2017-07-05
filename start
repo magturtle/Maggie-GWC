@@ -1,27 +1,34 @@
 <!DOCTYPE html>
 <html>
-<body style="background-color:rgb(250, 250, 50);">
+<body style="background-color:rgb(250, 250, 50); font-family:georgia;">
 
 <h1>About Me</h1>
 
-<p>My name is Maggie Laton.</p>
+<p>My name is Maggie Laton and I am 17 years old.</p>
+<p> One fun fact about me is that I am president of my robotics team for the third year, I am from California but I spend my summers in Michigan and I love to sail. 
 
-<pre>
-Likes Include:
+<pre style="font-family:verdana;">
+
+My Likes Include:
 	1. Turtles and Michigan
 	2. Spending time with friends and family
 	3. Coding for my robotics team
 	4. Reading
 	5. SUNSHINE
 	
-Dislikes include:
+My Dislikes Include:
 	1. Sharks
 	2. Snakes
 	3. Selfies
 	4. SPIDERS
 	5. Negativity
 
-
+My Favorite Sites:
+	1.
+	2.
+	3.
+	
+	
 </pre>
 
 
